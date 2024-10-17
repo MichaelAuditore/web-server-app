@@ -1,4 +1,4 @@
-# Static File Server
+# Web Server App
 
 This is a copy from our [web-static-app](https://github.com/MichaelAuditore/static-web-app.git)
 
