@@ -1,0 +1,19 @@
+{
+  "name": "static-file-server",
+  "version": "1.0.0",
+  "description": "Quick File Server",
+  "main": "index.js",
+  "scripts": {
+    "static": "serve -p 5050 static"
+  },
+  "keywords": [
+    "files"
+  ],
+  "author": "Miguel Parada",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "fastify-cli": "^6.2.1",
+    "serve": "^14.2.3"
+  }
+}
